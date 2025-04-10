@@ -1,19 +1,6 @@
-# new_project_2
+# Quizes App
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##### A simple Quizes app in Chemistry, Biology and math with 3 questions in each
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![1744297623715](image/README/1744297623715.png)
